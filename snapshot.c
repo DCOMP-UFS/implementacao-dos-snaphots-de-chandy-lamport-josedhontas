@@ -1,11 +1,6 @@
-melhore esse codigo ao maximo e envie todo para mim: /**
- * Código base (incompleto) para implementação de relógios vetoriais.
- * Meta: implementar a interação entre três processos ilustrada na figura
- * da URL: 
+/**
  * 
- * https://people.cs.rutgers.edu/~pxk/417/notes/images/clocks-vector.png
- * 
- * Compilação: mpicc -o snapsho2 snapshot.c
+ * Compilação: mpicc -o snapshot snapshot.c
  * Execução:   mpiexec -n 3 ./snapshot
  */
  
